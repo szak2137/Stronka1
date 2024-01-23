@@ -22,12 +22,12 @@ function jedz(){
         tekst.innerHTML = "Kacperek jest coraz większy, lepiej uważaj żeby nie stał sie kulką"
     }
     if(count>25){
-        zdjecie.src="img/kacperek_big.jpg"
+        zdjecie.src="kacperek_big.jpg"
         tekst.innerHTML="O nie!! Przez ciebie kacperek stał się gruby!😭<br>Kliknij na rodzine monet żeby go pocieszyć!"
-        guzik.src="img/monet.jpg"
+        guzik.src="monet.jpg"
     }
     if(count>26){
-        zdjecie.src="img/kacperek_happy.jpeg"
+        zdjecie.src="kacperek_happy.jpeg"
         zdjecie.width=368
         zdjecie.height=640
         tekst.innerHTML="Gratulacje użytkowniku! Teraz Kacperek jest szczęśliwy!🥳🥳"
